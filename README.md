@@ -1,4 +1,4 @@
-# yammer_sql_analysis
+# Project Name & Description
 Key skills: SQL (including window functions, subqueries, joins)
 
 Analysis of a fictitious social media company to determine  
