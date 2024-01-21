@@ -6,8 +6,8 @@ Analysis of a fictitious social media company to determine
 2) Performance of their search functionality
 
 # Project Screenshots
-![image](https://github.com/jonathanyang7/yammer_sql_analysis/assets/121763064/fad5a2c4-c6ad-45b1-aaac-cf59f66d1d39)
-![image](https://github.com/jonathanyang7/yammer_sql_analysis/assets/121763064/404fcc10-9f3f-442d-9337-3ab6503acd76)
+![image](https://github.com/jonathanyang7/yammer_sql_analysis/blob/69a9b57d461cacd71913195aede680fa3b48cbe9/03.%20Screenshots/user_engagement_active_by_continent.png)
+![image](https://github.com/jonathanyang7/yammer_sql_analysis/blob/main/03.%20Screenshots/user_engagement_cohort.png)
 
 # Key files
 - Queries for 1) and 2)  
