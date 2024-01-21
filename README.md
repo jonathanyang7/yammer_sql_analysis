@@ -1,5 +1,5 @@
 # Project Yammer
-Key skills: SQL (including window functions, subqueries, joins)
+Key skills: PostgreSQL
 
 Analysis of a fictitious social media company to determine  
 1) Cause of a drop in user engagement
